@@ -59,9 +59,14 @@ img {
     margin-top: 0;
   }
 
-  [class*="col-"]{
+  [class*="col-"], h1{
     padding: 1rem 0;
   }
+
+  p{
+    padding: 0 5px;
+  }
+
 }
 
  
